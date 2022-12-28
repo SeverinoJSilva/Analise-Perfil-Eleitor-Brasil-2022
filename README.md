@@ -3,7 +3,7 @@
 O Projeto de Análise do Perfil do Eleitorado Tem por objetivo aprensetar um resumos do dados
 do TSE sobre o perfil dos eleitores em 2022.
 
-Nele são apresentados dados em gáficos sobre:
+Neste projeto são apresentados dados em gráficos sobre:
 1. Total de Eleitores
 2. Eleitores por Gênero
 3. Eleitores do Estado Civil
@@ -17,8 +17,9 @@ Também foi disponibilzado um filtro, onde o usuário pode fazer a selação dos
 Sendo necessário apenas retirar o comentário e informar ao UF no janela que solicitará a informação.
 
 Os dados usados foram obtidos no portal de dados abertos do TSE no link abaixo:
-https://dadosabertos.tse.jus.br/dataset/eleitorado-atual
+
+1. https://dadosabertos.tse.jus.br/dataset/eleitorado-atual
 
 Ferramentas:
-- jupyter Notebook
+- Jupyter Notebook
 - Python 3.9
